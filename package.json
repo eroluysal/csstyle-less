@@ -1,0 +1,29 @@
+{
+  "name": "csstyle-less",
+  "version": "1.0.0",
+  "description": "LESS port of the SCSS version of @geddski's CSStyle [http://csstyle.io/]",
+  "directories": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HireVue/csstyle-less.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "web",
+    "components",
+    "styling",
+    "mixins",
+    "method",
+    "approach"
+  ],
+  "author": "HireVue, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HireVue/csstyle-less/issues"
+  }
+}
