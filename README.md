@@ -1,2 +1,2 @@
 # csstyle-less
-Fork of @geddski's SCSS version of CSStyle
+Less port of @geddski's SCSS version of CSStyle [http://csstyle.io/]
