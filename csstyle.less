@@ -17,13 +17,7 @@
 }
 
 .location(@name, @content) {
-  #csstyle .\@@{name} {
-    @content();
-  }
-}
-
-.tweak(@name, @content) {
-  #csstyle .\+@{name}{
+  .\@@{name} {
     @content();
   }
 }
