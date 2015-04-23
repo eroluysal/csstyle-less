@@ -21,3 +21,9 @@
     @content();
   }
 }
+
+.tweak(@name, @content) {
+  &.\+@{name} {
+    @content();
+  }
+}
